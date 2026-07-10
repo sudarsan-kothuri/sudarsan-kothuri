@@ -1,5 +1,21 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Welcome%20To%20My%20Digital%20Journey&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=fadeIn"/>
+
+<h3>
+💡 "Transforming Ideas into Reality Through Code, Innovation, and Continuous Learning"
+</h3>
+
+<p>
+🚀 Java Developer • 💻 Problem Solver • 🏆 Hackathon Enthusiast • 🌱 Lifelong Learner
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
 # 👋 Hi, I'm Sudarsan Kothuri
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Java+Developer;Web+Development+Enthusiast;DSA+Problem+Solver;Hackathon+Participant;Building+Real-World+Projects;Always+Learning+New+Technologies" />
@@ -66,15 +82,6 @@ Goal:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudarsan-kothuri&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsan-kothuri&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
