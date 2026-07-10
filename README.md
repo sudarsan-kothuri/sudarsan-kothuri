@@ -59,15 +59,7 @@ Goal:
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudarsan-kothuri&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsan-kothuri&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -91,13 +83,6 @@ Goal:
 
 ---
 
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sudarsan-kothuri&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
 
 ---
 
