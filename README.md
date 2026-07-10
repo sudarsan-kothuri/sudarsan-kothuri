@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=Sudarsan%20Kothuri&fontColor=ffffff&fontSize=60&fontAlignY=35&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Sudarsan%20Kothuri&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=900&lines=Java+Developer;Web+Development+Enthusiast;DSA+Learner;Hackathon+Participant;Building+Real+World+Projects;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Java+Developer;Web+Development+Enthusiast;DSA+Problem+Solver;Hackathon+Participant;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/github/followers/sudarsan-kothuri?style=for-the-badge&color=8b5cf6"/>
-
-<img src="https://komarev.com/ghpvc/?username=sudarsan-kothuri&style=for-the-badge&color=8b5cf6"/>
+<img src="https://komarev.com/ghpvc/?username=sudarsan-kothuri&style=for-the-badge&color=8A2BE2"/>
 
 </div>
 
@@ -18,15 +16,40 @@
 
 ```yaml
 Name: Sudarsan Kothuri
-Role: B.Tech CSE Student
-Focus: Java • DSA • Web Development
-Passion: Building Real-World Projects
-Interest: Hackathons & Problem Solving
+Education: B.Tech CSE
+Role: Student Developer
+Focus:
+  - Java
+  - DSA
+  - Web Development
+  - Problem Solving
+Goal:
+  - Software Development
+  - Competitive Programming
+  - Building Impactful Projects
 ```
 
 ---
 
-# ⚡ Tech Arsenal
+# 🏆 Achievements
+
+<div align="center">
+
+🥇 Top 10 Team in a National-Level Hackathon
+
+🚀 Participated in 10+ Hackathons (Online & Offline)
+
+💻 Active LeetCode & GeeksforGeeks Problem Solver
+
+🏗️ Built Multiple Real-World Development Projects
+
+📚 Continuously Learning New Technologies
+
+</div>
+
+---
+
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -36,19 +59,19 @@ Interest: Hackathons & Problem Solving
 
 ---
 
-# 📊 GitHub Dashboard
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudarsan-kothuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudarsan-kothuri&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsan-kothuri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsan-kothuri&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -58,7 +81,17 @@ Interest: Hackathons & Problem Solving
 
 ---
 
-# 🏆 Achievements
+# 🌌 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarsan-kothuri&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -68,7 +101,7 @@ Interest: Hackathons & Problem Solving
 
 ---
 
-# 💻 Languages & Frameworks
+# 💻 Languages & Tools
 
 <div align="center">
 
@@ -90,17 +123,19 @@ Interest: Hackathons & Problem Solving
 
 ---
 
-# 🌌 Activity Graph
+# 🌐 Coding Profiles
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarsan-kothuri&theme=tokyo-night"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -122,8 +157,6 @@ Interest: Hackathons & Problem Solving
 
 <div align="center">
 
-## 💜 Thanks for visiting my profile
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+### 💜 Thanks for visiting my profile
 
 </div>
