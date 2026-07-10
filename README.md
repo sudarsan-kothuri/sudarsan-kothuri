@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Sudarsan%20Kothuri&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn"/>
+# 👋 Hi, I'm Sudarsan Kothuri
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Java+Developer;Web+Development+Enthusiast;DSA+Problem+Solver;Hackathon+Participant;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Java+Developer;Web+Development+Enthusiast;DSA+Problem+Solver;Hackathon+Participant;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=sudarsan-kothuri&style=for-the-badge&color=8A2BE2"/>
 
@@ -18,15 +18,22 @@
 Name: Sudarsan Kothuri
 Education: B.Tech CSE
 Role: Student Developer
+
 Focus:
   - Java
-  - DSA
+  - Data Structures & Algorithms
   - Web Development
-  - Problem Solving
+
+Achievements:
+  - Top 10 Team in National Level Hackathon
+  - Participated in 10+ Hackathons
+  - Active LeetCode Problem Solver
+  - Active GeeksforGeeks Problem Solver
+
 Goal:
   - Software Development
-  - Competitive Programming
-  - Building Impactful Projects
+  - Problem Solving
+  - Building Real World Projects
 ```
 
 ---
@@ -39,9 +46,9 @@ Goal:
 
 🚀 Participated in 10+ Hackathons (Online & Offline)
 
-💻 Active LeetCode & GeeksforGeeks Problem Solver
+💻 Solving Problems on LeetCode & GeeksforGeeks
 
-🏗️ Built Multiple Real-World Development Projects
+🏗️ Built Multiple Real-World Projects
 
 📚 Continuously Learning New Technologies
 
@@ -53,13 +60,21 @@ Goal:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,flask,fastapi,mongodb,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,flask,fastapi,mongodb,git,github,vscode"/>
 
 </div>
 
 ---
 
+# 📊 GitHub Analytics
 
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudarsan-kothuri&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsan-kothuri&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -70,19 +85,6 @@ Goal:
 <img src="https://streak-stats.demolab.com?user=sudarsan-kothuri&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 🌌 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarsan-kothuri&theme=tokyo-night"/>
-
-</div>
-
----
-
 
 ---
 
@@ -112,9 +114,13 @@ Goal:
 
 <div align="center">
 
+<a href="https://leetcode.com">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
+<a href="https://www.geeksforgeeks.org">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
 </div>
 
@@ -128,12 +134,26 @@ Goal:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/sudarsankothuri">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kothurisudarsan@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sudarsankothuri">
+<img src="https://img.shields.io/badge/LinkedIn-Sudarsan_Kothuri-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kothurisudarsan@gmail.com">
+<img src="https://img.shields.io/badge/Email-kothurisudarsan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -143,5 +163,7 @@ Goal:
 <div align="center">
 
 ### 💜 Thanks for visiting my profile
+
+⭐ Always Learning • Always Building ⭐
 
 </div>
