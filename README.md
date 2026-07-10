@@ -1,55 +1,67 @@
-# <h1 align="center">Hi 👋, I'm Sudarsan Kothuri</h1>
+<div align="center">
 
-<h3 align="center">🚀 B.Tech CSE Student | Java Developer | Web Development Enthusiast</h3>
+# 👋 Hi, I'm Sudarsan Kothuri
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Web+Development+Enthusiast;DSA+Learner;Hackathon+Participant;Building+Projects+and+Learning+Every+Day" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=700&lines=Java+Developer;Web+Development+Enthusiast;DSA+Learner;Hackathon+Participant;Building+Projects+Every+Day" />
 
----
-
-## 🌟 About Me
-
-* 🎓 B.Tech CSE Student
-* 💻 Interested in Java, Web Development & Problem Solving
-* 🚀 Passionate about Hackathons and Real-World Projects
-* 🌱 Currently improving DSA and Development Skills
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="65%">
 
-<p align="center">
+## 🚀 About Me
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+🎓 B.Tech CSE Student
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+💻 Java Developer
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+🌱 Learning Data Structures & Algorithms
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+🚀 Passionate about Web Development
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+🏆 Hackathon Participant
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+⚡ Always Building & Learning
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+### 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,flask,fastapi,mongodb,git,github,vscode" />
 
 </p>
 
+### 🌐 Connect
+
+<a href="https://github.com/sudarsan-kothuri">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</td>
+
+<td width="35%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sudarsan-kothuri&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 Top Languages
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudarsan-kothuri&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsan-kothuri&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsan-kothuri&layout=donut&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -59,17 +71,47 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarsan-kothuri&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarsan-kothuri&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sudarsan-kothuri&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarsan-kothuri&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sudarsan-kothuri&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+## ⚡ Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
@@ -79,30 +121,24 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sudarsan-kothuri&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sudarsan-kothuri&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
 <p align="center">
 
-<a href="https://github.com/sudarsan-kothuri">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+### 💜 Thanks for visiting my profile!
 
-</p>
+</div>
