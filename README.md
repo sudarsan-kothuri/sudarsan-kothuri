@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Sudarsan Kothuri
 
-<!--
-**sudarsan-kothuri/sudarsan-kothuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Java Developer & Web Development Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about DSA, Web Development, and Hackathons
+
+---
+
+## 🛠️ Skills
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- MongoDB
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+### 🚨 AI Social Trust Detector
+AI-powered fake profile detection and trust scoring system.
+
+### 🏥 MEDIFLOW AI
+Healthcare OP booking and management platform.
+
+### 📦 Inventory Management System
+Inventory tracking and management solution.
+
+### 🌊 AquaOPS
+Water quality monitoring and analytics system.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarsan-kothuri&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsan-kothuri&layout=compact)
+
+---
+## 📫 Connect With Me
+
+- GitHub: https://github.com/sudarsan-kothuri
+- Linkedin:https://linkedin.com/sudarsankothuri
+- Email:kothurisudarsan@gmail.com
