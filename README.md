@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Sudarsan Kothuri
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Sudarsan%20Kothuri&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=700&lines=Java+Developer;Web+Development+Enthusiast;DSA+Learner;Hackathon+Participant;Building+Projects+Every+Day" />
+<h1>👋 Hi, I'm Sudarsan Kothuri</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Java+Developer;Web+Development+Enthusiast;DSA+Learner;Hackathon+Participant;Building+Projects+and+Learning+Every+Day" />
 
 </div>
 
@@ -10,7 +12,7 @@
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
 ## 🚀 About Me
 
@@ -24,34 +26,41 @@
 
 🏆 Hackathon Participant
 
-⚡ Always Building & Learning
+⚡ Building real-world projects and improving every day
 
-### 🛠 Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,flask,fastapi,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,flask,fastapi,mongodb,git,github,vscode&theme=dark"/>
 
 </p>
 
-### 🌐 Connect
+---
+
+## 🌐 Connect With Me
+
+<p>
 
 <a href="https://github.com/sudarsan-kothuri">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</td>
-
-<td width="35%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sudarsan-kothuri&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 </td>
 
+<td width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sudarsan-kothuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</td>
 </tr>
 </table>
 
@@ -61,7 +70,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsan-kothuri&layout=donut&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsan-kothuri&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </p>
 
@@ -71,13 +80,13 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarsan-kothuri&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarsan-kothuri&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
 
@@ -87,7 +96,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -101,17 +110,15 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </p>
 
@@ -140,5 +147,7 @@
 <div align="center">
 
 ### 💜 Thanks for visiting my profile!
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 </div>
